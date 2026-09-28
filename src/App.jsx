@@ -14,6 +14,11 @@ const students = [
     id: 3,
     firstName: "student 3",
     age:17
+  },
+  {
+    id: 4,
+    firstName: "student 3",
+    age:17
   }
 ]
 function App() {
