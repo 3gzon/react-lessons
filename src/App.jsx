@@ -1,9 +1,14 @@
 import './App.css'
+import Header from './components/Header'
+import Statistics from './components/Statistics'
 
 function App() {
 
   return (
-    <><h1>react</h1></>
+    <div className='app'>
+      <Header />
+      <Statistics/>
+    </div>
   )
 }
 
