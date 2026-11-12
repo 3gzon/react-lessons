@@ -1,10 +1,8 @@
-import './App.css'
+import Users from "./pages/Users";
+import "./App.css";
 
 function App() {
-
-  return (
-    <><h1>react</h1></>
-  )
+  return <Users />;
 }
 
-export default App
+export default App;
