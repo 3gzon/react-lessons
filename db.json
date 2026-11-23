@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "egzon",
+      "email": "egzonuka8@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "egzon2",
+      "email": "egzo2nuka8@gmail.com"
+    },
+    {
+      "name": "test",
+      "email": "test",
+      "id": "fOMSpqPyc4s"
+    },
+    {
+      "name": "kjk",
+      "email": "jk",
+      "id": "vbOrUSt_tno"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
